@@ -14,7 +14,9 @@ Downloading scripts, this may take a little while
  1. 找到visdom模块安装位置
  	其位置为`python`或`anaconda`安装目录下`\Lib\site-packages\visdon`
 ├─static
+
 │  ├─css
+
 │  ├─fonts
 │  └─js
 ├─__pycache__
